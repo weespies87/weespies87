@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Django Projects<br>While mixing frontends with React and Flutter
+Currently working on Django Projects<br>While mixing frontends with React and Flutter<br>I am by no means a traditional programmer but I am 100% a functional programmer
 
 
 ## 🌐 Socials:
